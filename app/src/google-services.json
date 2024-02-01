@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346784126378",
+    "project_id": "quicash-68797",
+    "storage_bucket": "quicash-68797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346784126378:android:aa16a82d6545ea891ec7d3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDalAflgOhUrE685o_lfPIFxL1HbdMzuao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346784126378:android:5bb9d036dbe5e7c51ec7d3",
+        "android_client_info": {
+          "package_name": "com.ibm.cloud.eventnotifications.destination.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDalAflgOhUrE685o_lfPIFxL1HbdMzuao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
